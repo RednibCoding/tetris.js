@@ -6,5 +6,6 @@ Tetris implementation in plain JavaScript in less than 300 lines of code
 - Level up by increasing score
 - Game Speed inceases on each level up
 
+# Screenshots
 ![Alt text](/doc/shot-01.png?raw=true)
 ![Alt text](/doc/shot-02.png?raw=true)
